@@ -1,0 +1,55 @@
+[
+    {
+    "firstName":"Ludmila",
+    "lastName":"García",
+    "edad":24,
+    "precioAsiento":350.70,
+    "pago":true,
+    "asiento":{
+        "numero":27,
+        "letra":"F",
+        "cargador":false
+        },
+    "historial": [
+        {
+            "salida": "Buenos Aires",
+            "destino": "Madrid",
+            "fecha": "18/02/2022"
+        },
+        {
+            "salida": "Buenos Aires",
+            "destino": "Valencia",
+            "fecha": "19/02/2022"
+        }
+    ]
+    },
+    {
+        "firstName":"Jorge",
+        "lastName":"López",
+        "edad":38,
+        "precioAsiento":250.00,
+        "pago":true,
+        "asiento":{
+            "numero":20,
+            "letra":"R",
+            "cargador":false
+            },
+        "historial": [
+            {
+                "salida": "Córdoba",
+                "destino": "Bogotá",
+                "fecha": "05/02/2022"
+            },
+            {
+                "salida": "Bogotá",
+                "destino": "Valencia",
+                "fecha": "19/02/2022"
+            },
+            {
+                "salida": "Valencia",
+                "destino": "Tenerife",
+                "fecha": "15/04/2022"
+            }
+        ]
+        }
+]
